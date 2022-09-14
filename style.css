@@ -1,0 +1,14 @@
+body {
+  background-color: cornsilk;
+  color: ghostwhite;
+  font-size: 25px;
+}
+h1 {
+  color: green;
+}
+.main-header {
+  color: olive;
+}
+#id {
+  color: saddlebrown;
+}
